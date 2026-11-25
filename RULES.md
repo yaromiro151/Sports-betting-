@@ -4,7 +4,7 @@ The working rules for NBA prop cards. Every rule here was earned by a graded res
 season doc (NBA Props Card) holds the full write-ups. Bet logs live in `history/dk_bets.csv`.
 Update this file whenever a night's grading confirms, breaks or adds a rule.
 
-_Last updated: Nov 25, 2026 (after grading Nov 24: 18 bets, $689 staked, $2,310 paid, +$1,621)._
+_Last updated: Nov 25, 2026 (after grading Nov 24: 19 NBA bets, $749 staked, $2,994.70 paid, +$2,245.70)._
 
 ## Core rules (each confirmed again on Nov 24)
 
@@ -15,7 +15,8 @@ _Last updated: Nov 25, 2026 (after grading Nov 24: 18 bets, $689 staked, $2,310 
 3. **Threes only from high-volume shooters** (7+ attempts a game) at rungs they clear most nights.
    Low-volume threes: 0 of 3 (Hauser twice, Jenkins). Even high-volume shooters miss on stretched
    rungs (Bane 5+, Murray 4+).
-4. **Assists only from the primary handler.** Secondary handlers and bigs went 1 of 4 (Pritchard,
+4. **Assists only from the primary handler.** (Exception that worked: a role player's trend-ticket
+   assists at his floor, like Queta 2+ and Braun 3+, both hit.) Secondary handlers and bigs went 1 of 4 (Pritchard,
    Kyshawn George, Black missed). Gafford 4+ and 5+ assists missed too.
 5. **No steals or blocks, ever.** 0 of 4 on Nov 24 (Murray 2+ steals twice, George 2+ and 3+,
    Jokic 1+ block).
@@ -39,7 +40,8 @@ _Last updated: Nov 25, 2026 (after grading Nov 24: 18 bets, $689 staked, $2,310 
     over, not to put the under in a parlay. Unders went 4 of 10 as legs (Trae, Queta, Pritchard,
     Carter and Flagg unders lost).
 12. **Tough-matchup assists drop a rung.** Franz 7+ assists missed against Detroit, the #3
-    assist defense. Against a top-5 assist defense, use one rung lower or skip it.
+    assist defense, but Franz 6+ assists (one rung lower) hit on the same night. Against a top-5
+   assist defense, use one rung lower or skip it.
 
 ## Model notes
 - Prop model: `sportsedge/props.py` (negative binomial on verified ESPN box scores). The rules
