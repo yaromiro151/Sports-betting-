@@ -1,0 +1,80 @@
+date,bet_id,placed_et,game,bet_type,odds,wager,result,paid,player,prop,leg_result
+2026-11-24,B01,11:21pm,DAL@DEN,4-leg SGP live,10000,40,L,0,Daniel Gafford,4+ ast,L
+2026-11-24,B01,11:21pm,DAL@DEN,4-leg SGP live,10000,40,L,0,Jamal Murray,2+ stl,L
+2026-11-24,B01,11:21pm,DAL@DEN,4-leg SGP live,10000,40,L,0,Caleb Martin,18+ pts,L
+2026-11-24,B01,11:21pm,DAL@DEN,4-leg SGP live,10000,40,L,0,Christian Braun,4+ ast,W
+2026-11-24,B02,11:18pm,DAL@DEN,4-leg SGP live,2600,45,L,0,Caleb Martin,4+ ast,W
+2026-11-24,B02,11:18pm,DAL@DEN,4-leg SGP live,2600,45,L,0,Jamal Murray,4+ 3pm,L
+2026-11-24,B02,11:18pm,DAL@DEN,4-leg SGP live,2600,45,L,0,Cameron Johnson,3+ 3pm,W
+2026-11-24,B02,11:18pm,DAL@DEN,4-leg SGP live,2600,45,L,0,Christian Braun,1+ 3pm,W
+2026-11-24,B03,11:15pm,DAL@DEN,5-leg SGP live,2600,50,W,1350,Zaccharie Risacher,6+ pts,W
+2026-11-24,B03,11:15pm,DAL@DEN,5-leg SGP live,2600,50,W,1350,Caleb Martin,4+ reb,W
+2026-11-24,B03,11:15pm,DAL@DEN,5-leg SGP live,2600,50,W,1350,Caleb Martin,4+ ast,W
+2026-11-24,B03,11:15pm,DAL@DEN,5-leg SGP live,2600,50,W,1350,Caleb Martin,3+ 3pm,W
+2026-11-24,B03,11:15pm,DAL@DEN,5-leg SGP live,2600,50,W,1350,Daniel Gafford,7+ pts,W
+2026-11-24,B04,11:00pm,DAL@DEN,5-leg SGP live,1500,60,W,960,Zaccharie Risacher,6+ pts,W
+2026-11-24,B04,11:00pm,DAL@DEN,5-leg SGP live,1500,60,W,960,Christian Braun,10+ pts,W
+2026-11-24,B04,11:00pm,DAL@DEN,5-leg SGP live,1500,60,W,960,Christian Braun,2+ 3pm,W
+2026-11-24,B04,11:00pm,DAL@DEN,5-leg SGP live,1500,60,W,960,Caleb Martin,3+ 3pm,W
+2026-11-24,B04,11:00pm,DAL@DEN,5-leg SGP live,1500,60,W,960,Caleb Martin,12+ pts,W
+2026-11-24,B05,10:58pm,DAL@DEN,5-leg SGP live,3200,60,L,0,Cooper Flagg,U20.5 pts,L
+2026-11-24,B05,10:58pm,DAL@DEN,5-leg SGP live,3200,60,L,0,Caleb Martin,15+ pts,L
+2026-11-24,B05,10:58pm,DAL@DEN,5-leg SGP live,3200,60,L,0,Daniel Gafford,8+ pts,W
+2026-11-24,B05,10:58pm,DAL@DEN,5-leg SGP live,3200,60,L,0,Cameron Johnson,12+ pts,W
+2026-11-24,B05,10:58pm,DAL@DEN,5-leg SGP live,3200,60,L,0,Daniel Gafford,5+ ast,L
+2026-11-24,B06,9:30pm,DAL@DEN,6-leg SGP,2400,60,L,0,Aaron Gordon,5+ reb,L
+2026-11-24,B06,9:30pm,DAL@DEN,6-leg SGP,2400,60,L,0,Nikola Jokic,12+ reb,L
+2026-11-24,B06,9:30pm,DAL@DEN,6-leg SGP,2400,60,L,0,Jamal Murray,25+ pts,L
+2026-11-24,B06,9:30pm,DAL@DEN,6-leg SGP,2400,60,L,0,Daniel Gafford,6+ reb,W
+2026-11-24,B06,9:30pm,DAL@DEN,6-leg SGP,2400,60,L,0,Christian Braun,12+ pts,W
+2026-11-24,B06,9:30pm,DAL@DEN,6-leg SGP,2400,60,L,0,Aaron Gordon,3+ ast,W
+2026-11-24,B07,9:26pm,DAL@DEN,6-leg SGP,7000,35,L,0,Nikola Jokic,25+ pts,L
+2026-11-24,B07,9:26pm,DAL@DEN,6-leg SGP,7000,35,L,0,Cameron Johnson,3+ ast,W
+2026-11-24,B07,9:26pm,DAL@DEN,6-leg SGP,7000,35,L,0,Jamal Murray,2+ stl,L
+2026-11-24,B07,9:26pm,DAL@DEN,6-leg SGP,7000,35,L,0,Jamal Murray,4+ 3pm,L
+2026-11-24,B07,9:26pm,DAL@DEN,6-leg SGP,7000,35,L,0,Nikola Jokic,1+ blk,L
+2026-11-24,B07,9:26pm,DAL@DEN,6-leg SGP,7000,35,L,0,Nikola Jokic,10+ ast,L
+2026-11-24,B08,8:19pm,BOS@WAS,3-leg SGP live,850,40,L,0,Payton Pritchard,4+ ast,L
+2026-11-24,B08,8:19pm,BOS@WAS,3-leg SGP live,850,40,L,0,Sam Hauser,3+ 3pm,L
+2026-11-24,B08,8:19pm,BOS@WAS,3-leg SGP live,850,40,L,0,Paul George,3+ stl,L
+2026-11-24,B09,8:14pm,BOS@WAS,4-leg SGP live (+30% boost),715,20,L,0,Anthony Davis,20+ pts,W
+2026-11-24,B09,8:14pm,BOS@WAS,4-leg SGP live (+30% boost),715,20,L,0,Kyshawn George,5+ ast,L
+2026-11-24,B09,8:14pm,BOS@WAS,4-leg SGP live (+30% boost),715,20,L,0,Jayson Tatum,25+ pts,W
+2026-11-24,B09,8:14pm,BOS@WAS,4-leg SGP live (+30% boost),715,20,L,0,Paul George,18+ pts,W
+2026-11-24,B10,7:01pm,BOS@WAS,6-leg SGP,2300,20,L,0,Jayson Tatum,26+ pts,W
+2026-11-24,B10,7:01pm,BOS@WAS,6-leg SGP,2300,20,L,0,Jayson Tatum,6+ ast,W
+2026-11-24,B10,7:01pm,BOS@WAS,6-leg SGP,2300,20,L,0,Sam Hauser,2+ 3pm,L
+2026-11-24,B10,7:01pm,BOS@WAS,6-leg SGP,2300,20,L,0,Anthony Davis,20+ pts,W
+2026-11-24,B10,7:01pm,BOS@WAS,6-leg SGP,2300,20,L,0,Paul George,2+ stl,L
+2026-11-24,B10,7:01pm,BOS@WAS,6-leg SGP,2300,20,L,0,Paul George,4+ 3pm,W
+2026-11-24,B11,6:54pm,DET@ORL,6-leg SGP,5000,15,L,0,Ausar Thompson,8+ reb,W
+2026-11-24,B11,6:54pm,DET@ORL,6-leg SGP,5000,15,L,0,Jalen Suggs,5+ reb,L
+2026-11-24,B11,6:54pm,DET@ORL,6-leg SGP,5000,15,L,0,Anthony Black,5+ reb,L
+2026-11-24,B11,6:54pm,DET@ORL,6-leg SGP,5000,15,L,0,Paul Reed,8+ reb,L
+2026-11-24,B11,6:54pm,DET@ORL,6-leg SGP,5000,15,L,0,Franz Wagner,8+ reb,W
+2026-11-24,B11,6:54pm,DET@ORL,6-leg SGP,5000,15,L,0,Wendell Carter Jr.,9+ reb,W
+2026-11-24,B12,6:51pm,DET@ORL,single,139,5,L,0,Franz Wagner,40+ PRA,L
+2026-11-24,B13,6:50pm,DET@ORL,5-leg SGP,2000,40,L,0,Daniss Jenkins,2+ 3pm,L
+2026-11-24,B13,6:50pm,DET@ORL,5-leg SGP,2000,40,L,0,Desmond Bane,5+ 3pm,L
+2026-11-24,B13,6:50pm,DET@ORL,5-leg SGP,2000,40,L,0,Ausar Thompson,8+ reb,W
+2026-11-24,B13,6:50pm,DET@ORL,5-leg SGP,2000,40,L,0,Anthony Black,5+ ast,L
+2026-11-24,B13,6:50pm,DET@ORL,5-leg SGP,2000,40,L,0,Anthony Black,5+ reb,L
+2026-11-24,B14,4:20pm,multi,4-leg SGPx,542,40,L,0,Payton Pritchard,U13.5 pts,L
+2026-11-24,B14,4:20pm,multi,4-leg SGPx,542,40,L,0,Cade Cunningham,U24.5 pts,V
+2026-11-24,B14,4:20pm,multi,4-leg SGPx,542,40,L,0,Kyrie Irving,U22.5 pts,W
+2026-11-24,B14,4:20pm,multi,4-leg SGPx,542,40,L,0,Cooper Flagg,U24.5 pts,W
+2026-11-24,B15,4:04pm,multi,5-leg SGPx (section 26 card),1361,70,L,0,Jamal Murray,24+ pts,L
+2026-11-24,B15,4:04pm,multi,5-leg SGPx (section 26 card),1361,70,L,0,AJ Dybantsa,7+ reb,W
+2026-11-24,B15,4:04pm,multi,5-leg SGPx (section 26 card),1361,70,L,0,Franz Wagner,6+ reb,W
+2026-11-24,B15,4:04pm,multi,5-leg SGPx (section 26 card),1361,70,L,0,Franz Wagner,7+ ast,L
+2026-11-24,B15,4:04pm,multi,5-leg SGPx (section 26 card),1361,70,L,0,Ausar Thompson,4+ ast,W
+2026-11-24,B16,3:45pm,multi,4-leg SGPx (section 28 unders),911,40,L,0,Neemias Queta,U10.5 pts,L
+2026-11-24,B16,3:45pm,multi,4-leg SGPx (section 28 unders),911,40,L,0,Trae Young,U14.5 pts,L
+2026-11-24,B16,3:45pm,multi,4-leg SGPx (section 28 unders),911,40,L,0,Kyrie Irving,U3.5 3pm,W
+2026-11-24,B16,3:45pm,multi,4-leg SGPx (section 28 unders),911,40,L,0,Nikola Jokic,U11.5 reb,W
+2026-11-24,B17,3:08pm,multi,4-leg SGPx (+15% boost),931,10,L,0,Nikola Jokic,25+ pts,L
+2026-11-24,B17,3:08pm,multi,4-leg SGPx (+15% boost),931,10,L,0,Cooper Flagg,U6.5 ast,L
+2026-11-24,B17,3:08pm,multi,4-leg SGPx (+15% boost),931,10,L,0,Cade Cunningham,U5.5 reb,V
+2026-11-24,B17,3:08pm,multi,4-leg SGPx (+15% boost),931,10,L,0,Wendell Carter Jr.,U7.5 reb,L
+2026-11-24,B18,unknown,unknown,3-leg SGP,3500,39,L,0,(not shown),3+ / 8+ / 5+,L
+2026-11-24,B19,1:00pm,GAL v AVL (soccer),"single, bonus bet",800,1.5,L,0,Aleksey Batrakov,1st goalscorer,L
