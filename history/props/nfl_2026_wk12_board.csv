@@ -1,0 +1,520 @@
+event_id,commence,home,away,player,stat,line,over,under
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Kyren Williams,anytime_td,,110,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Blake Corum,anytime_td,,135,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Christian Watson,anytime_td,,170,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Matthew Golden,anytime_td,,170,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Kaleb Johnson,anytime_td,,230,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Tucker Kraft,anytime_td,,250,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Colby Parkinson,anytime_td,,270,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Tyler Higbee,anytime_td,,295,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Konata Mumpfield,anytime_td,,330,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Tutu Atwell,anytime_td,,425,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,CJ Daniels,anytime_td,,450,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,MarShawn Lloyd,anytime_td,,450,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Los Angeles Rams D/ST,anytime_td,,450,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Savion Williams,anytime_td,,475,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Chris Brooks,anytime_td,,475,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Green Bay Packers D/ST,anytime_td,,500,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Davis Allen,anytime_td,,700,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Xavier Smith,anytime_td,,850,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Mark Redman,anytime_td,,1000,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Skyy Moore,anytime_td,,1000,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Bo Melton,anytime_td,,1200,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Jordan Love,anytime_td,,1200,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Jonnu Smith,anytime_td,,1300,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,J. Michael Sturdivant,anytime_td,,2000,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Ronnie Rivers,anytime_td,,2000,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Max Klare,anytime_td,,2200,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Matthew Stafford,anytime_td,,2500,
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Jordan Love,pass_yds,272.5,-112,-112.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Matthew Stafford,pass_yds,229.5,-111,-113.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Christian Watson,rec_yds,75.5,-113,-111.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Matthew Golden,rec_yds,75.5,-110,-114.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Tucker Kraft,rec_yds,39.5,-114,-110.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Konata Mumpfield,rec_yds,39.5,-110,-114.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Tyler Higbee,rec_yds,30.5,-113,-111.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,CJ Daniels,rec_yds,24.5,-109,-115.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Tutu Atwell,rec_yds,24.5,-109,-115.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Kyren Williams,rec_yds,21.5,-112,-112.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Colby Parkinson,rec_yds,19.5,-112,-112.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Savion Williams,rec_yds,19.5,-108,-116.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Blake Corum,rec_yds,12.5,-107,-117.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Davis Allen,rec_yds,11.5,-106,-118.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Chris Brooks,rec_yds,8.5,-112,-112.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Xavier Smith,rec_yds,7.5,-114,-110.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,MarShawn Lloyd,rec_yds,7.5,-110,-114.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Matthew Golden,rec,5.5,-125,-102.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Christian Watson,rec,4.5,-150,117.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Tucker Kraft,rec,4.5,125,-160.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Tyler Higbee,rec,3.5,-106,-120.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Kyren Williams,rec,3.5,110,-140.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Konata Mumpfield,rec,3.5,124,-158.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Colby Parkinson,rec,2.5,-146,114.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Savion Williams,rec,2.5,115,-146.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,CJ Daniels,rec,2.5,117,-149.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Blake Corum,rec,1.5,-168,131.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Tutu Atwell,rec,1.5,-155,121.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,MarShawn Lloyd,rec,1.5,-109,-117.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Davis Allen,rec,1.5,-104,-122.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Chris Brooks,rec,1.5,104,-133.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Xavier Smith,rec,0.5,-191,148.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Blake Corum,rush_yds,55.5,-113,-111.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Kyren Williams,rush_yds,55.5,-111,-113.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Kaleb Johnson,rush_yds,32.5,-115,-110.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,MarShawn Lloyd,rush_yds,11.5,-110,-114.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Chris Brooks,rush_yds,6.5,-111,-113.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Savion Williams,rush_yds,4.5,-108,-116.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Jordan Love,rush_yds,3.5,-112,-112.0
+5b612899d6dcdf998107f2c6c6e49a58,2026-11-26T01:00:00Z,Los Angeles Rams,Green Bay Packers,Matthew Stafford,rush_yds,0.5,143,-181.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Jahmyr Gibbs,anytime_td,,-255,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Amon-Ra St. Brown,anytime_td,,-145,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,D'Andre Swift,anytime_td,,-130,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Colston Loveland,anytime_td,,130,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Luther Burden III,anytime_td,,145,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Kyle Monangai,anytime_td,,150,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Rome Odunze,anytime_td,,175,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Sam LaPorta,anytime_td,,195,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Jameson Williams,anytime_td,,205,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Kalif Raymond,anytime_td,,350,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Caleb Williams,anytime_td,,350,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Isaac TeSlaa,anytime_td,,450,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Sione Vaki,anytime_td,,550,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Detroit Lions D/ST,anytime_td,,600,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Chicago Bears D/ST,anytime_td,,600,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Zavion Thomas,anytime_td,,750,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Sam Roush,anytime_td,,800,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Salvon Ahmed,anytime_td,,1000,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Brock Wright,anytime_td,,1100,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Tyler Conklin,anytime_td,,1200,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Jared Goff,anytime_td,,1300,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Jahdae Walker,anytime_td,,1300,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,DeAndre Carter,anytime_td,,1400,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Jacob Saylors,anytime_td,,1600,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Stephen Carlson,anytime_td,,2200,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Tay Martin,anytime_td,,3500,
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Jared Goff,pass_yds,277.5,-111,-113.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Caleb Williams,pass_yds,258.5,-111,-113.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Amon-Ra St. Brown,rec_yds,86.5,-113,-111.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Luther Burden III,rec_yds,60.5,-110,-114.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Jameson Williams,rec_yds,56.5,-114,-110.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Colston Loveland,rec_yds,53.5,-110,-114.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Rome Odunze,rec_yds,45.5,-114,-110.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Sam LaPorta,rec_yds,44.5,-113,-111.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Jahmyr Gibbs,rec_yds,37.5,-113,-111.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Kalif Raymond,rec_yds,23.5,-116,-108.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Isaac TeSlaa,rec_yds,19.5,-109,-115.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,D'Andre Swift,rec_yds,15.5,-115,-109.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Zavion Thomas,rec_yds,9.5,-112,-112.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Sam Roush,rec_yds,7.5,-107,-117.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Kyle Monangai,rec_yds,5.5,-120,-105.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Sione Vaki,rec_yds,3.5,-111,-113.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Brock Wright,rec_yds,2.5,-115,-109.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Amon-Ra St. Brown,rec,7.5,100,-128.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Colston Loveland,rec,5.5,114,-145.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Luther Burden III,rec,4.5,-148,116.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Jahmyr Gibbs,rec,4.5,-102,-125.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Sam LaPorta,rec,4.5,111,-142.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Jameson Williams,rec,3.5,-132,103.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Rome Odunze,rec,3.5,133,-171.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Kalif Raymond,rec,2.5,-102,-125.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,D'Andre Swift,rec,2.5,102,-130.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Isaac TeSlaa,rec,1.5,109,-139.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Zavion Thomas,rec,1.5,148,-190.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Kyle Monangai,rec,0.5,-230,178.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Sam Roush,rec,0.5,-199,154.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Brock Wright,rec,0.5,-144,112.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Sione Vaki,rec,0.5,-127,100.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Jahmyr Gibbs,rush_yds,92.5,-114,-110.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,D'Andre Swift,rush_yds,47.5,-110,-114.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Kyle Monangai,rush_yds,33.5,-116,-109.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Caleb Williams,rush_yds,22.5,-117,-108.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Sione Vaki,rush_yds,9.5,-110,-114.0
+9b825e6518156008da499be041975fdd,2026-11-26T18:00:00Z,Detroit Lions,Chicago Bears,Jared Goff,rush_yds,1.5,-112,-112.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Javonte Williams,anytime_td,,-180,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,CeeDee Lamb,anytime_td,,-160,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,George Pickens,anytime_td,,-115,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Saquon Barkley,anytime_td,,115,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,DeVonta Smith,anytime_td,,180,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Ryan Flournoy,anytime_td,,280,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Joe Milton,anytime_td,,285,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Dallas Goedert,anytime_td,,300,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Brevyn Spann-Ford,anytime_td,,380,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Makai Lemon,anytime_td,,390,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys D/ST,anytime_td,,500,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Darius Cooper,anytime_td,,550,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Dak Prescott,anytime_td,,600,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Philadelphia Eagles D/ST,anytime_td,,600,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Will Shipley,anytime_td,,650,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,KaVontae Turpin,anytime_td,,700,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Luke Schoonmaker,anytime_td,,800,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Hunter Luepke,anytime_td,,950,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Zach Ertz,anytime_td,,1500,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,James Mitchell,anytime_td,,1700,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Camden Brown,anytime_td,,2200,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Elijah Moore,anytime_td,,2200,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Britain Covey,anytime_td,,2500,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Eli Stowers,anytime_td,,2500,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Grant Calcaterra,anytime_td,,2800,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Johnny Mundt,anytime_td,,3500,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Jaydon Blue,anytime_td,,3500,
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Dak Prescott,pass_yds,263.5,-113,-111.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Joe Milton,pass_yds,200.5,-111,-113.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,CeeDee Lamb,rec_yds,90.5,-111,-113.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,George Pickens,rec_yds,71.5,-111,-113.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,DeVonta Smith,rec_yds,64.5,-113,-111.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Dallas Goedert,rec_yds,32.5,-112,-112.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Makai Lemon,rec_yds,31.5,-110,-114.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Ryan Flournoy,rec_yds,31.5,-110,-114.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Darius Cooper,rec_yds,27.5,-115,-109.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Brevyn Spann-Ford,rec_yds,14.5,-113,-111.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Javonte Williams,rec_yds,7.5,-108,-116.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Saquon Barkley,rec_yds,7.5,-108,-116.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Will Shipley,rec_yds,6.5,-103,-122.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,KaVontae Turpin,rec_yds,4.5,-114,-110.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,CeeDee Lamb,rec,7.5,106,-136.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,DeVonta Smith,rec,5.5,-114,-112.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,George Pickens,rec,5.5,112,-143.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Dallas Goedert,rec,3.5,-106,-120.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Makai Lemon,rec,3.5,131,-167.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Ryan Flournoy,rec,2.5,-154,120.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Darius Cooper,rec,2.5,123,-158.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Brevyn Spann-Ford,rec,1.5,-174,136.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Javonte Williams,rec,1.5,-153,120.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Saquon Barkley,rec,1.5,106,-135.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Will Shipley,rec,1.5,170,-220.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,KaVontae Turpin,rec,0.5,-160,125.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Javonte Williams,rush_yds,74.5,-112,-112.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Saquon Barkley,rush_yds,65.5,-115,-109.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Joe Milton,rush_yds,32.5,-111,-113.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,Dak Prescott,rush_yds,9.5,-108,-117.0
+ffaa06af56a7137d4b078c5c46c0b730,2026-11-26T21:30:00Z,Dallas Cowboys,Philadelphia Eagles,KaVontae Turpin,rush_yds,3.5,-117,-107.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Emmett Johnson,anytime_td,,-130,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Josh Allen,anytime_td,,-125,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Kenneth Walker III,anytime_td,,-125,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,James Cook,anytime_td,,-105,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Travis Kelce,anytime_td,,195,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Rashee Rice,anytime_td,,200,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,DJ Moore,anytime_td,,240,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Khalil Shakir,anytime_td,,270,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Josh Downs,anytime_td,,270,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Dalton Kincaid,anytime_td,,290,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Keon Coleman,anytime_td,,425,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Buffalo Bills D/ST,anytime_td,,500,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Dawson Knox,anytime_td,,500,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Xavier Worthy,anytime_td,,500,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Kansas City Chiefs D/ST,anytime_td,,550,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Patrick Mahomes,anytime_td,,550,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Noah Gray,anytime_td,,550,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Ty Johnson,anytime_td,,600,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Cyrus Allen,anytime_td,,600,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Jaydn Ott,anytime_td,,850,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Jake Briningstool,anytime_td,,950,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Tyrell Shavers,anytime_td,,1200,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Skyler Bell,anytime_td,,1200,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Jackson Hawes,anytime_td,,1400,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Ray Davis,anytime_td,,1400,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Keleki Latu,anytime_td,,1500,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Jalen Royals,anytime_td,,1500,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Andrew Armstrong,anytime_td,,2000,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Greg Dortch,anytime_td,,3000,
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Patrick Mahomes,pass_yds,239.5,-111,-113.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Josh Allen,pass_yds,223.5,-113,-111.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,DJ Moore,rec_yds,49.5,-110,-114.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Rashee Rice,rec_yds,46.5,-111,-113.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Travis Kelce,rec_yds,43.5,-111,-113.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Khalil Shakir,rec_yds,40.5,-114,-110.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Josh Downs,rec_yds,40.5,-110,-114.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Dalton Kincaid,rec_yds,39.5,-114,-110.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Keon Coleman,rec_yds,24.5,-110,-114.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Xavier Worthy,rec_yds,19.5,-111,-113.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Ty Johnson,rec_yds,16.5,-113,-111.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Cyrus Allen,rec_yds,11.5,-115,-109.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,James Cook,rec_yds,7.5,-117,-107.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Rashee Rice,rec,4.5,-106,-120.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Travis Kelce,rec,4.5,120,-153.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,DJ Moore,rec,3.5,-150,118.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Khalil Shakir,rec,3.5,-116,-110.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Josh Downs,rec,3.5,-101,-127.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Dalton Kincaid,rec,3.5,105,-134.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Xavier Worthy,rec,2.5,125,-160.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Ty Johnson,rec,2.5,136,-174.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Keon Coleman,rec,2.5,138,-177.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,James Cook,rec,1.5,117,-149.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Cyrus Allen,rec,1.5,165,-213.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,James Cook,rush_yds,85.5,-110,-114.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Josh Allen,rush_yds,36.5,-116,-109.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Patrick Mahomes,rush_yds,14.5,-117,-108.0
+f36f518585aec40e8cb40e071c0844aa,2026-11-27T01:20:00Z,Buffalo Bills,Kansas City Chiefs,Ty Johnson,rush_yds,2.5,100,-125.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Bijan Robinson,anytime_td,,-125,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Justin Jefferson,anytime_td,,-110,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Aaron Jones,anytime_td,,145,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,T.J. Hockenson,anytime_td,,175,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Jordan Mason,anytime_td,,210,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Drake London,anytime_td,,260,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Jauan Jennings,anytime_td,,360,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Kyle Pitts,anytime_td,,380,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Tai Felton,anytime_td,,425,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Minnesota Vikings D/ST,anytime_td,,450,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Atlanta Falcons D/ST,anytime_td,,500,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Jahan Dotson,anytime_td,,550,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Ben Yurosek,anytime_td,,800,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Myles Price,anytime_td,,800,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Olamide Zaccheaus,anytime_td,,950,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Zachariah Branch,anytime_td,,1000,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Michael Penix Jr.,anytime_td,,1200,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Khalil Herbert,anytime_td,,1200,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Gavin Bartholomew,anytime_td,,1300,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Charlie Woerner,anytime_td,,1300,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,DeeJay Dallas,anytime_td,,1600,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Kirk Cousins,anytime_td,,1700,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Beaux Collins,anytime_td,,1800,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Austin Hooper,anytime_td,,2000,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Jeshaun Jones,anytime_td,,2000,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Max Bredeson,anytime_td,,2500,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Chris Blair,anytime_td,,3000,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Nick Muse,anytime_td,,4500,
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Kirk Cousins,pass_yds,244.5,-112,-111.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Michael Penix Jr.,pass_yds,198.5,-112,-112.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Justin Jefferson,rec_yds,84.5,-112,-112.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Drake London,rec_yds,66.5,-113,-111.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,T.J. Hockenson,rec_yds,42.5,-112,-112.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Jauan Jennings,rec_yds,29.5,-113,-111.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Jahan Dotson,rec_yds,28.5,-109,-115.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Kyle Pitts,rec_yds,25.5,-113,-111.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Bijan Robinson,rec_yds,20.5,-110,-114.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Tai Felton,rec_yds,19.5,-112,-112.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Aaron Jones,rec_yds,7.5,-115,-109.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Justin Jefferson,rec,6.5,-121,-105.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Drake London,rec,5.5,111,-142.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,T.J. Hockenson,rec,4.5,-115,-111.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Kyle Pitts,rec,3.5,108,-138.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Bijan Robinson,rec,2.5,-155,121.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Jauan Jennings,rec,2.5,-109,-117.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Tai Felton,rec,2.5,127,-162.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Jahan Dotson,rec,1.5,-159,124.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Aaron Jones,rec,1.5,-103,-124.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Bijan Robinson,rush_yds,74.5,-114,-111.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Jordan Mason,rush_yds,56.5,-112,-112.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Aaron Jones,rush_yds,37.5,-113,-111.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Khalil Herbert,rush_yds,9.5,-116,-109.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Michael Penix Jr.,rush_yds,8.5,-106,-118.0
+6a05021bdb6bab24b9bb381ffff10f0c,2026-11-29T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Kirk Cousins,rush_yds,0.5,-114,-110.0
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,David Montgomery,anytime_td,,-130,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Derrick Henry,anytime_td,,-115,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Nico Collins,anytime_td,,115,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Zay Flowers,anytime_td,,155,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Xavier Hutchinson,anytime_td,,255,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Tank Dell,anytime_td,,265,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Dalton Schultz,anytime_td,,275,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Mark Andrews,anytime_td,,330,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Ja'Kobi Lane,anytime_td,,380,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Houston Texans D/ST,anytime_td,,380,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Kayshon Boutte,anytime_td,,400,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Rashod Bateman,anytime_td,,400,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Justice Hill,anytime_td,,425,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Foster Moreau,anytime_td,,475,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Baltimore Ravens D/ST,anytime_td,,500,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,C.J. Stroud,anytime_td,,550,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Josh Cuevas,anytime_td,,850,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Matthew Hibner,anytime_td,,1000,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Jacoby Brissett,anytime_td,,1200,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Marlin Klein,anytime_td,,1600,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Devontez Walker,anytime_td,,1700,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Nikko Remigio,anytime_td,,2500,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Elijah Sarratt,anytime_td,,2800,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Nick Vannett,anytime_td,,3500,
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,C.J. Stroud,pass_yds,255.5,-111,-113.0
+60d0c074801985c1062795362a24200e,2026-11-29T18:00:00Z,Houston Texans,Baltimore Ravens,Jacoby Brissett,pass_yds,243.5,-112,-112.0
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Chase Brown,anytime_td,,-140,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Ja'Marr Chase,anytime_td,,-135,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Tee Higgins,anytime_td,,100,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Samaje Perine,anytime_td,,155,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Travis Etienne Jr.,anytime_td,,175,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Mike Gesicki,anytime_td,,190,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Chris Olave,anytime_td,,225,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Jordyn Tyson,anytime_td,,260,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Alvin Kamara,anytime_td,,320,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Joe Burrow,anytime_td,,350,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Tyler Shough,anytime_td,,350,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Devaughn Vele,anytime_td,,390,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Juwan Johnson,anytime_td,,475,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Noah Fant,anytime_td,,475,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Cincinnati Bengals D/ST,anytime_td,,475,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Dohnte Meyers,anytime_td,,500,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,CJ Donaldson,anytime_td,,600,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Jack Endries,anytime_td,,650,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,New Orleans Saints D/ST,anytime_td,,750,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Drew Sample,anytime_td,,850,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Colbie Young,anytime_td,,1000,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Bryce Lance,anytime_td,,1100,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Barion Brown,anytime_td,,1500,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Oscar Delp,anytime_td,,2000,
+f7d3ae7a8fe2438cef7d7d7bc67e31db,2026-11-29T18:00:00Z,Cincinnati Bengals,New Orleans Saints,Tahj Brooks,anytime_td,,2800,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Cam Skattebo,anytime_td,,-150,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Jonathan Taylor,anytime_td,,-110,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Isaiah Likely,anytime_td,,155,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Malik Nabers,anytime_td,,160,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Tyler Warren,anytime_td,,280,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Anthony Richardson,anytime_td,,310,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,J.J. McCarthy,anytime_td,,425,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Malachi Fields,anytime_td,,450,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,New York Giants D/ST,anytime_td,,450,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Darnell Mooney,anytime_td,,500,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Jameis Winston,anytime_td,,500,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Laquon Treadwell,anytime_td,,600,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Devin Singletary,anytime_td,,600,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Indianapolis Colts D/ST,anytime_td,,600,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Anthony Gould,anytime_td,,700,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Deion Burks,anytime_td,,750,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Theo Johnson,anytime_td,,750,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Ashton Dulin,anytime_td,,850,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,DJ Giddens,anytime_td,,1100,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Drew Ogletree,anytime_td,,1500,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Quez Watkins,anytime_td,,1900,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Pharaoh Brown,anytime_td,,2500,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Jalin Hyatt,anytime_td,,2500,
+e9da808e36e1b7475698a57465ad4519,2026-11-29T18:00:00Z,Indianapolis Colts,New York Giants,Patrick Ricard,anytime_td,,3000,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Parker Washington,anytime_td,,-110,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Tony Pollard,anytime_td,,105,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Jakobi Meyers,anytime_td,,145,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Brenton Strange,anytime_td,,190,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Carnell Tate,anytime_td,,245,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Brian Thomas Jr,anytime_td,,350,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Trevor Lawrence,anytime_td,,400,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Josh Cameron,anytime_td,,400,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Nate Boerkircher,anytime_td,,400,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Elic Ayomanor,anytime_td,,450,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars D/ST,anytime_td,,475,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Gunnar Helm,anytime_td,,500,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Chimere Dike,anytime_td,,550,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Travis Hunter,anytime_td,,600,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Cam Ward,anytime_td,,750,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Calvin Ridley,anytime_td,,750,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Tennessee Titans D/ST,anytime_td,,800,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Daniel Bellinger,anytime_td,,850,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Quintin Morris,anytime_td,,1500,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Xavier Restrepo,anytime_td,,1500,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Tanner Koziol,anytime_td,,1700,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Nicholas Singleton,anytime_td,,2200,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,David Martin-Robinson,anytime_td,,3500,
+81a8fee5b649a3ad5ad59e9528f2f376,2026-11-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Julius Chestnut,anytime_td,,4500,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Ollie Gordon II,anytime_td,,-120,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Breece Hall,anytime_td,,-110,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Garrett Wilson,anytime_td,,185,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Braelon Allen,anytime_td,,190,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Caleb Douglas,anytime_td,,290,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Malik Washington,anytime_td,,300,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Adonai Mitchell,anytime_td,,330,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Greg Dulcich,anytime_td,,425,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Jaylen Wright,anytime_td,,475,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Mason Taylor,anytime_td,,475,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Kenyon Sadiq,anytime_td,,500,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,New York Jets D/ST,anytime_td,,500,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Miami Dolphins D/ST,anytime_td,,550,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Isaiah Williams,anytime_td,,800,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Chris Bell,anytime_td,,900,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Kyle McCord,anytime_td,,1100,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Kevin Coleman Jr.,anytime_td,,1100,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Kaytron Allen,anytime_td,,1300,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Tim Patrick,anytime_td,,1300,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Will Kacmarek,anytime_td,,1600,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Geno Smith,anytime_td,,1800,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Jeremy Ruckert,anytime_td,,1800,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Malik McClain,anytime_td,,1800,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Isaiah Davis,anytime_td,,2200,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Jelani Woods,anytime_td,,2800,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Jalen Tolbert,anytime_td,,3000,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Jared Wayne,anytime_td,,3000,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,DJ Herman,anytime_td,,3500,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Seydou Traore,anytime_td,,3500,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Andrew Beck,anytime_td,,4500,
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Geno Smith,pass_yds,211.5,-113,-111.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Kyle McCord,pass_yds,184.5,-113,-111.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Garrett Wilson,rec_yds,56.5,-110,-114.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Caleb Douglas,rec_yds,49.5,-109,-115.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Malik Washington,rec_yds,35.5,-112,-112.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Greg Dulcich,rec_yds,26.5,-110,-114.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Breece Hall,rec_yds,19.5,-109,-115.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Mason Taylor,rec_yds,18.5,-114,-110.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Kenyon Sadiq,rec_yds,18.5,-110,-114.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Ollie Gordon II,rec_yds,11.5,-108,-116.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Garrett Wilson,rec,5.5,106,-136.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Caleb Douglas,rec,4.5,126,-161.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Malik Washington,rec,3.5,-137,108.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Breece Hall,rec,3.5,137,-176.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Greg Dulcich,rec,2.5,-138,108.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Mason Taylor,rec,2.5,-104,-122.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Kenyon Sadiq,rec,2.5,107,-136.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Ollie Gordon II,rec,2.5,111,-142.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Ollie Gordon II,rush_yds,73.5,-110,-114.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Breece Hall,rush_yds,56.5,-113,-111.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Braelon Allen,rush_yds,39.5,-115,-109.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Kyle McCord,rush_yds,7.5,-111,-113.0
+5ea0e3ea5944b0ad5169f21c0787b331,2026-11-29T18:00:00Z,Miami Dolphins,New York Jets,Geno Smith,rush_yds,3.5,-109,-115.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Christian McCaffrey,anytime_td,,-155,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Zach Charbonnet,anytime_td,,115,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Jaxon Smith-Njigba,anytime_td,,125,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Mike Evans,anytime_td,,190,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,George Kittle,anytime_td,,195,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Jadarian Price,anytime_td,,280,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,AJ Barner,anytime_td,,320,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Keenan Allen,anytime_td,,330,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Deebo Samuel,anytime_td,,330,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Rashid Shaheed,anytime_td,,425,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Cooper Kupp,anytime_td,,425,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Brock Purdy,anytime_td,,475,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Kaelon Black,anytime_td,,500,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers D/ST,anytime_td,,550,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Seattle Seahawks D/ST,anytime_td,,600,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Jordan Watkins,anytime_td,,850,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Tory Horton,anytime_td,,850,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Kyle Juszczyk,anytime_td,,1200,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Luke Farrell,anytime_td,,1300,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Sam Darnold,anytime_td,,1400,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Eric Saubert,anytime_td,,1400,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Nick Kallerup,anytime_td,,1700,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Emanuel Wilson,anytime_td,,1800,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Jacob Cowing,anytime_td,,2500,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,James Jordan,anytime_td,,3000,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Brayden Willis,anytime_td,,3000,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Irv Charles,anytime_td,,3500,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Brady Russell,anytime_td,,4000,
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Brock Purdy,pass_yds,237.5,-113,-111.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Sam Darnold,pass_yds,227.5,-112,-112.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Jaxon Smith-Njigba,rec_yds,95.5,-112,-112.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Mike Evans,rec_yds,60.5,-112,-112.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,George Kittle,rec_yds,45.5,-112,-112.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Christian McCaffrey,rec_yds,29.5,-115,-109.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Keenan Allen,rec_yds,24.5,-116,-108.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,AJ Barner,rec_yds,22.5,-112,-112.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Deebo Samuel,rec_yds,21.5,-115,-109.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Cooper Kupp,rec_yds,19.5,-115,-109.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Rashid Shaheed,rec_yds,16.5,-115,-109.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Jadarian Price,rec_yds,9.5,-119,-105.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Zach Charbonnet,rec_yds,7.5,-105,-119.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Jordan Watkins,rec_yds,6.5,-111,-113.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Tory Horton,rec_yds,4.5,-117,-107.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Kyle Juszczyk,rec_yds,1.5,-112,-112.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Jaxon Smith-Njigba,rec,7.5,-110,-115.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,George Kittle,rec,4.5,116,-148.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Mike Evans,rec,4.5,119,-152.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Christian McCaffrey,rec,3.5,-123,-104.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,AJ Barner,rec,2.5,-160,125.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Keenan Allen,rec,2.5,-160,125.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Deebo Samuel,rec,2.5,-115,-111.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Cooper Kupp,rec,2.5,116,-149.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Rashid Shaheed,rec,1.5,-188,146.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Jadarian Price,rec,1.5,-145,114.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Zach Charbonnet,rec,1.5,-105,-121.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Tory Horton,rec,0.5,-178,139.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Jordan Watkins,rec,0.5,-153,120.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Kyle Juszczyk,rec,0.5,-133,105.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Zach Charbonnet,rush_yds,57.5,-111,-113.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Christian McCaffrey,rush_yds,53.5,-115,-109.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Jadarian Price,rush_yds,24.5,-113,-111.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Kaelon Black,rush_yds,19.5,-108,-116.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Brock Purdy,rush_yds,15.5,-112,-112.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Deebo Samuel,rush_yds,10.5,-113,-111.0
+d68dced0b26726890b9c79bd19a5ffe5,2026-11-29T21:25:00Z,San Francisco 49ers,Seattle Seahawks,Sam Darnold,rush_yds,5.5,-109,-115.0
+eaa993c3d62d6b5aeb6142cdd7862fd5,2026-11-30T01:20:00Z,Cleveland Browns,Las Vegas Raiders,Deshaun Watson,pass_yds,231.5,-113,-111.0
+eaa993c3d62d6b5aeb6142cdd7862fd5,2026-11-30T01:20:00Z,Cleveland Browns,Las Vegas Raiders,Fernando Mendoza,pass_yds,191.5,-113,-111.0

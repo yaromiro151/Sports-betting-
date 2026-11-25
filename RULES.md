@@ -47,3 +47,16 @@ _Last updated: Nov 25, 2026 (after grading Nov 24: 19 NBA bets, $749 staked, $2,
 - Prop model: `sportsedge/props.py` (negative binomial on verified ESPN box scores). The rules
   above are applied in `apply_rules` where they can be checked automatically.
 - Game model: `python -m sportsedge card` gives the spread view that rule 9 uses.
+
+## NFL rules (started Nov 25, 2026; ungraded until Week 12 settles)
+
+1. **Volume only:** starting QBs (25+ attempts), RBs with 12+ carries, receivers with 6+ targets.
+   No backups or gadget players, even with big model edges (those are thin samples).
+2. **Wind:** outdoors at 20+ mph, no passing, receiving-yards or reception overs. Rushing overs
+   and passing unders are fine. Check the forecast on game day; domes and closed roofs don't count.
+3. **Upset check (NFL version):** when the game model makes the underdog 4+ points closer than the
+   spread, skip the **favorite's rushing** overs (a trailing favorite throws more and runs less).
+4. **A main-line edge of 15% or more means missing news** (role change, injury, weather), not a bet.
+5. **Anytime TDs and unders are singles**, never parlay legs. Unders only when the hit rates agree.
+6. **Questionable QBs put their whole passing game on the swap list** (e.g. Darnold, Week 12).
+7. Re-check inactives 90 minutes before kickoff (NFL inactives come out then).
