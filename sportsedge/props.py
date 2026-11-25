@@ -197,3 +197,77 @@ def apply_rules(cands: pd.DataFrame, box: pd.DataFrame, b2b_teams: set[str]) -> 
         else:
             picks.append(good.iloc[-1])
     return pd.DataFrame(picks).sort_values("model_p", ascending=False).reset_index(drop=True)
+
+
+# ---------------------------------------------------------------- pricing a DraftKings board
+
+def _norm(name: str) -> str:
+    import re
+    n = re.sub(r"[.'’]", "", str(name)).lower()
+    n = re.sub(r"\b(jr|sr|ii|iii|iv)\b", "", n)
+    return " ".join(n.split())
+
+
+def price_board(board: pd.DataFrame, box: pd.DataFrame, defense: pd.DataFrame,
+                out_players: set[str], b2b_teams: set[str], upset_favorites: set[str]) -> pd.DataFrame:
+    """Price every over/under on a DraftKings main-line board and tag it with the rules bank.
+
+    rule_ok marks overs that pass RULES.md (center/star rebounds one rung under the average,
+    high-volume threes, primary-handler assists, star points vs a below-average defense, no
+    favorite-star overs in an upset spot). Unders are priced too but are singles only (rule 11).
+    """
+    from .pricing import implied_prob
+    league = defense[STATS].mean()
+    box = box.assign(_n=box.player.map(_norm))
+    ast_lead = (box.groupby(["team", "_n"]).ast.mean().reset_index()
+                .sort_values("ast").groupby("team").tail(1).set_index("team")._n)
+    out_n = {_norm(p) for p in out_players}
+    rows = []
+    for r in board.dropna(subset=["line", "over"]).itertuples(index=False):
+        n = _norm(r.player)
+        g = box[box._n == n].sort_values("game_date")
+        if g.empty or n in out_n:
+            continue
+        team = g.team.iloc[-1]
+        opp = r.away if team == r.home else r.home
+        s = r.stat
+        season, l5, l3 = g[s].mean(), g[s].tail(5).mean(), g[s].tail(3).mean()
+        mu = (0.6 * season + 0.4 * l5) * (defense.loc[opp, s] / league[s]) * (0.96 if team in b2b_teams else 1)
+        rung = int(np.floor(r.line)) + 1                       # over 5.5 == 6+
+        p_over = prob_at_least(mu, DISPERSION[s], rung)
+        tag = ("RISING" if l3 > season * 1.15 and l3 - season >= 1 else
+               "FALLING" if l3 < season / 1.15 and season - l3 >= 1 else "")
+        minutes = g["min"].tail(10).mean()
+        starter = g.starter.mean()
+        ok, why = False, ""
+        if starter < 0.8 or minutes < 26:
+            why = "role player"
+        elif s == "reb":
+            ok = season >= 8 and rung <= season - 1 + 0.5
+            why = "" if ok else ("wing/guard reb" if season < 8 else "line above avg-1")
+        elif s == "3pm":
+            ok = g.tpa.mean() >= 7 and team not in b2b_teams
+            why = "" if ok else "low-volume threes"
+        elif s == "ast":
+            ok = ast_lead.get(team) == n and season >= 5
+            if ok and defense.loc[opp, "ast_rank"] <= 5:
+                ok, why = False, "top-5 assist D: drop a rung"
+            elif not ok:
+                why = "not primary handler"
+        elif s == "pts":
+            ok = season >= 20 and defense.loc[opp, "pts_rank"] >= 13
+            why = "" if ok else ("not a star" if season < 20 else "good defense")
+        if ok and team in upset_favorites and season >= 18:
+            ok, why = False, "upset check"
+        imp_o = implied_prob(r.over)
+        imp_u = implied_prob(r.under) if pd.notna(r.under) else np.nan
+        rows.append(dict(
+            matchup=f"{r.away} @ {r.home}", player=r.player, team=team, opp=opp, stat=s, line=r.line,
+            over=r.over, under=r.under, mu=round(mu, 1), season=round(season, 1), l5=round(l5, 1),
+            model_over=round(p_over, 3), edge_over=round(p_over - imp_o, 3),
+            edge_under=round((1 - p_over) - imp_u, 3) if pd.notna(imp_u) else np.nan,
+            hit_season=round((g[s] >= rung).mean(), 2), hit_l10=round((g[s].tail(10) >= rung).mean(), 2),
+            hit_l5=round((g[s].tail(5) >= rung).mean(), 2), tag=tag, rule_ok=ok, rule_note=why,
+            opp_rank=int(defense.loc[opp, f"{s}_rank"]), log=", ".join(str(int(x)) for x in g[s].tail(5)),
+        ))
+    return pd.DataFrame(rows)
