@@ -71,8 +71,8 @@ def project(row: pd.Series, season: pd.DataFrame, game: dict, stat: str) -> tupl
                   if len(hist) else max(row["min"], 1.0) * GAME_MIN / max(game["played"], 1))
     season_rate = (hist[stat].sum() / hist["min"].sum()) if len(hist) and hist["min"].sum() > 0 else 0.0
     tonight_rate = row[stat] / row["min"] if row["min"] > 0 else season_rate
-    # trust tonight more as minutes pile up (half weight at 20 minutes played)
-    w = row["min"] / (row["min"] + 20.0)
+    # tonight's rate is noisy: half weight only after 60 minutes (scoring) / 40 (boards, assists)
+    w = row["min"] / (row["min"] + (60.0 if stat in ("pts", "3pm") else 40.0))
     rate = w * tonight_rate + (1 - w) * season_rate
     left_game = max(GAME_MIN - game["played"], 0.0)
     # tonight's minutes pace counts when a player is clearly in a bigger role than usual
@@ -108,13 +108,15 @@ def price_live(board: pd.DataFrame, box_now: pd.DataFrame, season_box: pd.DataFr
         elif exp_left <= 0:
             p_over = 0.0
         else:
-            k = DISP[r.stat]
+            k = DISP[r.stat] * 2.0          # in-game remainder is more volatile than a full game
             rr = 1 / k
             p_over = float(nbinom.sf(need - 1, rr, rr / (rr + exp_left)))
         hist = season_box[season_box._n == n]
         is_role = (hist.starter.mean() < 0.8) if len(hist) else True
         lead_team = b["team"] == game["leader"]
+        edge = p_over - implied_prob(r.over)
         rows.append(dict(
+            stale=bool(abs(edge) > 0.25 or (need <= 0)),
             game=f"{game['away']} @ {game['home']} ({game['detail']}, {game['away_score']:.0f}-{game['home_score']:.0f})",
             player=r.player, team=b["team"], stat=r.stat, line=r.line, over=r.over, under=r.under,
             now=cur, mins=round(float(b["min"]), 1), mins_left=round(mins_left, 1), need=max(need, 0),
@@ -129,7 +131,7 @@ def price_live(board: pd.DataFrame, box_now: pd.DataFrame, season_box: pd.DataFr
 
 
 def check(event_map: dict[str, str] | None = None, force: list[str] | None = None,
-          min_edge: float = 0.05) -> tuple[list[dict], pd.DataFrame, int | None]:
+          min_edge: float = 0.05, after_q1: bool = False) -> tuple[list[dict], pd.DataFrame, int | None]:
     """One live check. event_map: ESPN id -> Odds API event id (built automatically if omitted)."""
     from .sources import oddsapi
     games = live_games()
@@ -144,7 +146,8 @@ def check(event_map: dict[str, str] | None = None, force: list[str] | None = Non
         event_map = {g["espn_id"]: lookup.get((g["away"], g["home"])) for g in games}
     out, remaining = [], None
     for g in games:
-        if not (worth_betting(g) or (force and (g["home"] in force or g["away"] in force))):
+        if not (worth_betting(g) or (force and (g["home"] in force or g["away"] in force))
+                or (after_q1 and 12 <= g["played"] < 26)):          # just past the 1st quarter
             continue
         eid = event_map.get(g["espn_id"])
         if not eid:

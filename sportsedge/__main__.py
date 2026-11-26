@@ -44,6 +44,7 @@ def main(argv=None):
     lv = sub.add_parser("live")
     lv.add_argument("--force", default="", help="team abbreviations to price even if the game is close")
     lv.add_argument("--min-edge", type=float, default=0.05)
+    lv.add_argument("--after-q1", action="store_true", help="price every game once the 1st quarter is over")
     b = sub.add_parser("backtest")
     b.add_argument("league", choices=list(config.LEAGUES))
     b.add_argument("--start", required=True)
@@ -68,7 +69,7 @@ def main(argv=None):
     elif args.cmd == "live":
         from . import live
         force = [t.strip().upper() for t in args.force.split(",") if t.strip()]
-        games, priced, credits = live.check(force=force, min_edge=args.min_edge)
+        games, priced, credits = live.check(force=force, min_edge=args.min_edge, after_q1=args.after_q1)
         if not games:
             print("No NBA games in progress.")
         for g in games:
