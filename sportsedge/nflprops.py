@@ -48,6 +48,7 @@ def weekly(season: int) -> pd.DataFrame:
     return pd.DataFrame(dict(
         player=s.player_display_name, pos=s.position, team=s.team, opp=s.opponent_team, week=s.week,
         attempts=s.attempts, pass_yds=s.passing_yards, carries=s.carries, rush_yds=s.rushing_yards,
+        completions=s.completions, ints=s.passing_interceptions, pass_tds=s.passing_tds,
         targets=s.targets, rec=s.receptions, rec_yds=s.receiving_yards,
         tds=s.rushing_tds.fillna(0) + s.receiving_tds.fillna(0))).fillna(0)
 
@@ -100,8 +101,10 @@ def load(season: int = 2026) -> pd.DataFrame:
 
 def defense(w: pd.DataFrame) -> pd.DataFrame:
     """Per opponent: yards and catches allowed per game, as a factor of league average."""
-    g = w.groupby(["opp", "week"])[["pass_yds", "rush_yds", "rec_yds", "rec", "tds"]].sum().reset_index()
-    per = g.groupby("opp")[["pass_yds", "rush_yds", "rec_yds", "rec", "tds"]].mean()
+    cols = [c for c in ["pass_yds", "rush_yds", "rec_yds", "rec", "tds", "attempts", "completions", "ints",
+                        "pass_tds", "carries"] if c in w.columns]
+    g = w.groupby(["opp", "week"])[cols].sum().reset_index()
+    per = g.groupby("opp")[cols].mean()
     return per / per.mean()
 
 
@@ -132,15 +135,31 @@ def price(board: pd.DataFrame, w: pd.DataFrame, dfac: pd.DataFrame, inj: pd.Data
         team = g.team.iloc[-1]
         home, away = NFL_TEAMS.get(r.home, r.home), NFL_TEAMS.get(r.away, r.away)
         opp = away if team == home else home
-        stat = "tds" if r.stat == "anytime_td" else r.stat
+        stat = {"anytime_td": "tds", "pass_att": "attempts", "pass_cmp": "completions",
+                "pass_int": "ints", "rush_att": "carries"}.get(r.stat, r.stat)
+        if stat not in g.columns:
+            continue
         season, l3 = g[stat].mean(), g[stat].tail(3).mean()
-        fac_key = {"pass_yds": "pass_yds", "rush_yds": "rush_yds", "rec_yds": "rec_yds", "rec": "rec", "tds": "tds"}[stat]
-        fac = float(dfac.loc[opp, fac_key]) if opp in dfac.index else 1.0
+        fac_key = {"pass_yds": "pass_yds", "rush_yds": "rush_yds", "rec_yds": "rec_yds", "rec": "rec", "tds": "tds",
+                   "attempts": "attempts", "completions": "completions", "ints": "ints", "pass_tds": "pass_tds",
+                   "carries": "carries"}[stat]
+        fac = float(dfac.loc[opp, fac_key]) if opp in dfac.index and fac_key in dfac.columns else 1.0
+        # interception rates swing wildly by defense; only use half the opponent effect
+        if stat == "ints":
+            fac = 1 + 0.5 * (fac - 1)
         mu = (0.6 * season + 0.4 * l3) * fac
         if stat == "tds":
             lam = (len(g) * mu + 3 * 0.25) / (len(g) + 3)
             p_over = 1 - np.exp(-lam)
             line, hit = 0.5, (g.tds > 0)
+        elif stat in ("ints", "pass_tds"):
+            from scipy.stats import poisson
+            p_over = float(poisson.sf(np.floor(r.line), mu))
+            line, hit = r.line, g[stat] > r.line
+        elif stat in ("attempts", "completions", "carries"):
+            sd = max(0.5 * g[stat].std(ddof=0) + 0.5 * 0.18 * mu, 1.5)
+            p_over = float(1 - norm.cdf((r.line - mu) / sd))
+            line, hit = r.line, g[stat] > r.line
         elif stat == "rec":
             r_ = 1 / 0.10
             p_over = float(nbinom.sf(np.floor(r.line), r_, r_ / (r_ + mu))) if mu > 0 else 0.0
@@ -150,12 +169,14 @@ def price(board: pd.DataFrame, w: pd.DataFrame, dfac: pd.DataFrame, inj: pd.Data
             p_over = float(1 - norm.cdf((r.line - mu) / max(sd, 1.0)))
             line, hit = r.line, g[stat] > r.line
         # NFL rules bank
-        vol = {"pass_yds": g.attempts.mean() >= 25, "rush_yds": g.carries.mean() >= 12,
-               "rec_yds": g.targets.mean() >= 6, "rec": g.targets.mean() >= 6, "tds": False}[stat]
+        qb = g.attempts.mean() >= 25
+        vol = {"pass_yds": qb, "rush_yds": g.carries.mean() >= 12, "rec_yds": g.targets.mean() >= 6,
+               "rec": g.targets.mean() >= 6, "tds": False, "attempts": qb, "completions": qb, "ints": qb,
+               "pass_tds": qb, "carries": g.carries.mean() >= 12}[stat]
         note = "" if vol else ("TD = single only" if stat == "tds" else "low volume")
-        if vol and team in upset_favorites and stat == "rush_yds":
+        if vol and team in upset_favorites and stat in ("rush_yds", "carries"):
             vol, note = False, "upset check (favorite may trail and abandon the run)"
-        if vol and home in windy_homes and stat in ("pass_yds", "rec_yds", "rec"):
+        if vol and home in windy_homes and stat in ("pass_yds", "rec_yds", "rec", "completions", "pass_tds"):
             vol, note = False, "wind 20+ mph"
         if p_over - implied_prob(r.over) >= 0.15 and vol:
             vol, note = False, "edge too big: check role/news"

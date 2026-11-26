@@ -8,7 +8,10 @@ from .oddsapi import _key
 
 BASE = "https://api.the-odds-api.com/v4/sports/americanfootball_nfl"
 MARKETS = {"player_pass_yds": "pass_yds", "player_rush_yds": "rush_yds", "player_reception_yds": "rec_yds",
-           "player_receptions": "rec", "player_anytime_td": "anytime_td"}
+           "player_receptions": "rec", "player_anytime_td": "anytime_td",
+           "player_pass_attempts": "pass_att", "player_pass_completions": "pass_cmp",
+           "player_pass_interceptions": "pass_int", "player_pass_tds": "pass_tds",
+           "player_rush_attempts": "rush_att"}
 
 
 def events() -> list[dict]:
