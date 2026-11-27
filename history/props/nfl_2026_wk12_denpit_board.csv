@@ -1,0 +1,87 @@
+event_id,commence,home,away,player,stat,line,over,under
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Jonah Coleman,anytime_td,,-135,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Jaylen Warren,anytime_td,,190,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Jaylen Waddle,anytime_td,,330,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Rico Dowdle,anytime_td,,370,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Courtland Sutton,anytime_td,,380,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,DK Metcalf,anytime_td,,425,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Denver Broncos D/ST,anytime_td,,450,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Bo Nix,anytime_td,,500,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Pittsburgh Steelers D/ST,anytime_td,,500,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Darnell Washington,anytime_td,,550,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Evan Engram,anytime_td,,550,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Pat Bryant,anytime_td,,550,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Germie Bernard,anytime_td,,650,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Pat Freiermuth,anytime_td,,650,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Marvin Mims Jr.,anytime_td,,750,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Roman Wilson,anytime_td,,800,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Michael Pittman Jr.,anytime_td,,900,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Nate Adkins,anytime_td,,1100,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Tyler Badie,anytime_td,,1100,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Troy Franklin,anytime_td,,1300,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Adam Trautman,anytime_td,,1600,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Adam Prentice,anytime_td,,1800,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Max Hurleman,anytime_td,,1800,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Mason Rudolph,anytime_td,,2000,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Lil'Jordan Humphrey,anytime_td,,2200,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Kaden Wetjen,anytime_td,,2500,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Cody Schrader,anytime_td,,2500,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Robert Tonyan,anytime_td,,3000,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Eli Heidenreich,anytime_td,,3500,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Lew Nichols,anytime_td,,5000,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Travis Homer,anytime_td,,5000,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Riley Nowakowski,anytime_td,,6500,
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Bo Nix,pass_att,31.5,-111,-114.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Mason Rudolph,pass_att,29.5,-103,-124.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Bo Nix,pass_cmp,20.5,101,-129.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Mason Rudolph,pass_cmp,18.5,102,-131.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Bo Nix,pass_int,0.5,118,-151.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Mason Rudolph,pass_int,0.5,-179,140.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Bo Nix,pass_tds,1.5,149,-191.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Mason Rudolph,pass_tds,0.5,-194,151.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Bo Nix,pass_yds,202.5,-113,-111.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Mason Rudolph,pass_yds,174.5,-112,-112.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Jaylen Waddle,rec_yds,43.5,-113,-111.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,DK Metcalf,rec_yds,28.5,-115,-109.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Pat Bryant,rec_yds,26.5,-111,-113.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Courtland Sutton,rec_yds,25.5,-111,-113.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Jonah Coleman,rec_yds,23.5,-110,-114.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Pat Freiermuth,rec_yds,22.5,-116,-108.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Germie Bernard,rec_yds,22.5,-114,-110.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Evan Engram,rec_yds,22.5,-112,-112.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Jaylen Warren,rec_yds,18.5,-115,-109.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Darnell Washington,rec_yds,16.5,-107,-117.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Roman Wilson,rec_yds,12.5,-110,-114.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Michael Pittman Jr.,rec_yds,11.5,-109,-115.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Marvin Mims Jr.,rec_yds,9.5,-111,-113.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Rico Dowdle,rec_yds,9.5,-105,-119.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Adam Trautman,rec_yds,4.5,-109,-115.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Troy Franklin,rec_yds,3.5,-109,-115.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Max Hurleman,rec_yds,0.5,100,-126.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Jaylen Waddle,rec,3.5,-130,102.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Jonah Coleman,rec,3.5,-110,-116.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Germie Bernard,rec,2.5,-161,126.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Courtland Sutton,rec,2.5,-144,113.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,DK Metcalf,rec,2.5,-135,106.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Evan Engram,rec,2.5,-117,-109.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Jaylen Warren,rec,2.5,-117,-108.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Pat Bryant,rec,2.5,-104,-122.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Pat Freiermuth,rec,2.5,106,-135.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Darnell Washington,rec,1.5,-146,114.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Rico Dowdle,rec,1.5,-144,112.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Roman Wilson,rec,1.5,100,-127.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Michael Pittman Jr.,rec,1.5,122,-156.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Marvin Mims Jr.,rec,1.5,151,-194.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Adam Trautman,rec,0.5,-179,140.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Troy Franklin,rec,0.5,-153,120.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Jonah Coleman,rush_att,19.5,-116,-109.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Jaylen Warren,rush_att,14.5,-119,-108.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Rico Dowdle,rush_att,8.5,106,-135.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Bo Nix,rush_att,4.5,117,-149.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Jonah Coleman,rush_yds,74.5,-112,-112.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Jaylen Warren,rush_yds,64.5,-110,-114.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Rico Dowdle,rush_yds,31.5,-108,-116.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Bo Nix,rush_yds,10.5,-111,-113.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Mason Rudolph,rush_yds,6.5,-104,-121.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Tyler Badie,rush_yds,4.5,-116,-109.0
+44a3bcf5bd002583ddef2207a92dd977,2026-11-27T20:00:00Z,Pittsburgh Steelers,Denver Broncos,Marvin Mims Jr.,rush_yds,1.5,-119,-105.0
