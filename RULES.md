@@ -69,3 +69,15 @@ _Last updated: Nov 25, 2026 (after grading Nov 24: 19 NBA bets, $749 staked, $2,
    and don't fade the leading QB's yards: the shootout keeps him throwing.
 9. **Live NFL: carries and attempts are steadier than yards.** Bet volume first (Javonte 21+/22+
    carries hit easily), yards second.
+
+## Nov 25 NBA grading (pregame card 1-4, fair bets 1-5, live overs 16-29, live unders 6-14)
+13. **Rule 10 confirmed hard: live bench players on the team in control, low numbers.** Spencer
+    10+ and 1+ three, Sheppard 6+, Melton 6+ ast, Monk 3+ ast, Cissoko 8+, Camara 7+, Ty Jerome 7+
+    ast, Wells 18+: about 9 of 10.
+14. **No live points unders on starters.** 3 of 10 (Brandon Miller scored 35 against U25.5, Herro
+    28 against U18.5, Bam 17 against U12.5). Scorers who start cold usually catch up; the live
+    model leaned too hard on the cold start.
+15. **Live star points overs off a hot start are a coin flip** (about 4 of 9: Harden, Sabonis,
+    McDaniels hit; Durant, Lendeborg, Podziemski, Keegan Murray, Scoot missed). Small stakes only.
+16. **Pregame threes overs on main lines missed** (Brunson 3+, Harden 3+). Use them only on the
+    "rung below" ladder price, not the main line.
