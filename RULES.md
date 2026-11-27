@@ -60,3 +60,12 @@ _Last updated: Nov 25, 2026 (after grading Nov 24: 19 NBA bets, $749 staked, $2,
 5. **Anytime TDs and unders are singles**, never parlay legs. Unders only when the hit rates agree.
 6. **Questionable QBs put their whole passing game on the swap list** (e.g. Darnold, Week 12).
 7. Re-check inactives 90 minutes before kickoff (NFL inactives come out then).
+
+### NFL lesson, Nov 26 (PHI 39, DAL 38 after trailing 21-3)
+8. **A big lead by a bad defense is not safe.** Dallas (29th in points allowed) led 21-3 and lost.
+   Live player props still went 11-4 (Javonte carries/yards, Lamb, Saquon unders), but the projected
+   final was badly wrong. When the leading team has a bottom-5 defense, add the **trailing team's
+   WR1 over** live (DeVonta Smith went 11-200-2) instead of assuming the trailing offense is dead,
+   and don't fade the leading QB's yards: the shootout keeps him throwing.
+9. **Live NFL: carries and attempts are steadier than yards.** Bet volume first (Javonte 21+/22+
+   carries hit easily), yards second.
